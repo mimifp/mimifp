@@ -1,4 +1,4 @@
-Welcome to my GitHub repository! My name is Miriam Ferreiro-Pantín and I am a biologist :herb: and bioinformatician :computer:, having also a background in biomedical biotechnology. I am currently a predoctoral student at ONCOMET, a group that conducts research in translational oncology at the Health Research Institute of Santiago de Compostela (IDIS). 
+Welcome to my GitHub repository! My name is Miriam Ferreiro-Pantín and I am a biologist :herb: and bioinformatician :computer:, having also a background in biomedical biotechnology. I am currently a predoctoral student at University of Santiago de Compostela. Specifically I am part of the research group ONCOMET, that conducts research in translational oncology at the Health Research Institute of Santiago de Compostela (IDIS). 
 
 My repositories are:
 - [general](https://github.com/mimifp/general): public repository with some pipelines and scripts of interest that I have been developing. 
