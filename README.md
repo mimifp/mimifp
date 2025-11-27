@@ -12,6 +12,7 @@ Recently, I’ve been contributing to research projects involving:
 I enjoy programming and building reproducible workflows, writing clean and useful code, and collaborating with teams at the intersection of biology and technology. I’m always learning, especially in backend development, data engineering, molecular biology of cancer and modern bioinformatics tooling.
 
 **Tech stack** 
+
 Python · R · Bash · Django · PostgreSQL · Git · HPC/SLURM · Linux · Bioinformatics specific software
 
 📫 If you want to contact me for any collaborations, don’t hesitate to write to miriam.ferreirop@gmail.com
