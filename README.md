@@ -1,4 +1,5 @@
-Welcome to my GitHub profile! I’m a biologist turned bioinformatician with background in biomedical biotechnology. My professional experience spans genomics, data analysis, and scientific software development. My work has focused on high-throughput sequencing (WGS, WES, RNA-seq), variant analysis, and the development of computational pipelines and applications that support biomedical research.
+✨ Welcome to my GitHub profile! ✨ 
+I’m a biologist turned bioinformatician with background in biomedical biotechnology. My professional experience spans genomics, data analysis, and scientific software development. My work has focused on high-throughput sequencing (WGS, WES, RNA-seq), variant analysis, and the development of computational pipelines and applications that support biomedical research.
 
 Recently, I’ve been contributing to research projects involving:
 - 🎯 Variant and neoantigen analysis for cancer genomics
