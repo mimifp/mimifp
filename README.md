@@ -14,4 +14,4 @@ I enjoy programming and building reproducible workflows, writing clean and usefu
 
 **Tech stack -** Python · R · Bash · Django · PostgreSQL · Git · HPC/SLURM · Linux · Bioinformatics specific software
 
-If you want to contact me for any collaborations, don’t hesitate to write to miriam.ferreirop@gmail.com
+If you want to contact me for any collaborations, don’t hesitate to write to mimiferreiropantin@proton.me
